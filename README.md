@@ -7,7 +7,7 @@
 
 ### Setup & Changes
 ```bash
-git clone <repository-url>         # Clone a repository
+git clone <repository-url>        # Clone a repository
 git status                        # Check status of working directory
 git add .                         # Stage all changes
 git commit -m "message"           # Commit staged changes
